@@ -41,7 +41,7 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#post"
+  url = "#posts"
   label = "看最新分享"
   # icon_pack = "fas"
   # icon = "download"
