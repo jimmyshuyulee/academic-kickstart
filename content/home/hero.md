@@ -3,9 +3,9 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "Academic"
+title = "了解夢想中的職業
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -17,11 +17,11 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "LightCyan"
+  color = "LightCyan"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -36,15 +36,15 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "#post"
-  label = "看最新分享"
+# [cta]
+  # url = "#post"
+  # label = "看最新分享"
   # icon_pack = "fas"
   # icon = "download"
   
 [cta_alt]
-  # url = "#post"
-  # label = "看最新分享"
+  url = "#post"
+  label = "看最新分享"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
