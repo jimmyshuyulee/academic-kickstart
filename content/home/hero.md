@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "了解夢想中的職業"
+title = "\n了解夢想中的職業"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -36,15 +36,15 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-  # url = "#post"
-  # label = "看最新分享"
+[cta]
+  url = "#post"
+  label = "看最新分享"
   # icon_pack = "fas"
   # icon = "download"
   
 [cta_alt]
-  url = "#post"
-  label = "看最新分享"
+  # url = "#post"
+  # label = "看最新分享"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
